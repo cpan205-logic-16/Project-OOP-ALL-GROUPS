@@ -1,2 +1,2 @@
 # cpan205logic
-Logic classes for cpan205, 2016
+Logic classes for CPAN205B, 2016
